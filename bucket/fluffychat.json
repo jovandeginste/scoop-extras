@@ -1,0 +1,14 @@
+{
+    "version": "1.0.1",
+    "description": "Chat with your friends",
+    "homepage": "https://fluffychat.im",
+    "license": "AGPL-3.0-or-later",
+    "url": "https://gitlab.com/famedly/fluffychat/-/package_files/22852499/download.zip",
+    "hash": "c1025f299699a9983e74d68e8015a48d4037fe642589b5b15b78db9f185c175a",
+    "bin": "fluffychat.exe",
+    "shortcuts": [["fluffychat.exe", "FluffyChat"]],
+    "checkver": {
+        "url": "https://packages.riot.im/desktop/update/win32/x64/RELEASES",
+        "regex": "desktop-([\\d.]+)-full\\."
+    }
+}
