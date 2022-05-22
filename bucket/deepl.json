@@ -1,5 +1,5 @@
 {
-    "version": "3.4.15088",
+    "version": "3.5.15793",
     "description": "An online translator",
     "homepage": "https://www.deepl.com/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://www.deepl.com/windows/download/x64/3_4_15088/DeepL-3.4.15088-full.nupkg",
-            "hash": "sha1:4dd84aaa051293aac7f4ff0066c82569c2fce9d4"
+            "url": "https://www.deepl.com/windows/download/x64/3_5_15793/DeepL-3.5.15793-full.nupkg",
+            "hash": "118c3f3ac407762e2670ee4c0366904bf413034f893bd78a732534a70ee2ee7c"
         }
     },
     "pre_install": [
