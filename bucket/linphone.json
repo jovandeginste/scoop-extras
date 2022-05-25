@@ -1,12 +1,12 @@
 {
-    "version": "4.4.1",
+    "version": "4.4.2",
     "description": "A free VoIP and video softphone based on the SIP protocol.",
     "homepage": "https://linphone.org/",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://www.linphone.org/releases/windows/app/Linphone-4.4.1-win64.exe#/dl.7z",
-            "hash": "6397e6fb9f0e5aba2d7c07a9171c62cc292e33768917afa5cbcc429176094c5b"
+            "url": "https://www.linphone.org/releases/windows/app/Linphone-4.4.2-win64.exe#/dl.7z",
+            "hash": "d3c01162460be02ed93dca070569ff4a5ae12cdbecec3c9ba022ff6f659afd1d"
         }
     },
     "bin": "bin\\linphone.exe",
