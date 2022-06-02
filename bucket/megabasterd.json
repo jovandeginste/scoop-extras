@@ -1,5 +1,5 @@
 {
-    "version": "7.51",
+    "version": "7.52",
     "description": "Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.",
     "homepage": "https://github.com/tonikelope/megabasterd",
     "license": "GPL-3.0-only",
@@ -9,8 +9,8 @@
             "java/oraclejdk"
         ]
     },
-    "url": "https://github.com/tonikelope/megabasterd/releases/download/v7.51/MegaBasterd_7.51.jar#/MegaBasterd.jar",
-    "hash": "160d05d56fa2c0db6254cd6c6971f7247d7e436956ee04417afd409e3cfa7a35",
+    "url": "https://github.com/tonikelope/megabasterd/releases/download/v7.52/MegaBasterd_7.52.jar#/MegaBasterd.jar",
+    "hash": "603db52b9a51404fcbf250a7a57a89d8e527d697f6fb0d653e8f01ba72389126",
     "pre_install": "Set-Content \"$dir\\MegaBasterd.bat\" '@start javaw.exe -jar \"%~dp0MegaBasterd.jar\" %*' -Encoding Ascii",
     "shortcuts": [
         [
