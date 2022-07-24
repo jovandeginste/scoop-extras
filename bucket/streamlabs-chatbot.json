@@ -1,13 +1,13 @@
 {
-    "version": "1.0.2.65",
+    "version": "1.0.2.68",
     "description": "Open Broadcaster Software for Gamers",
     "homepage": "https://streamlabs.com/chatbot",
     "license": {
         "identifier": "Freeware",
         "url": "https://streamlabs.com/terms"
     },
-    "url": "https://cdn.streamlabs.com/chatbot/Streamlabs+Chatbot+Installer.exe?v=1.0.2.65",
-    "hash": "62d15345825230932e1e8d498548ae498667e1f580baad5dcd4c3674e49b0ee7",
+    "url": "https://cdn.streamlabs.com/chatbot/Streamlabs+Chatbot+Installer.exe?v=1.0.2.68",
+    "hash": "21c15c1a978b647eecef9c168fcd1b7fe49c40e0762ae59e8040aeb794193b5c",
     "innosetup": true,
     "shortcuts": [
         [
