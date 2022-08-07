@@ -1,16 +1,16 @@
 {
-    "version": "3.6.0",
+    "version": "3.7.0",
     "description": "A Discord and Fosscord web-based client.",
     "homepage": "https://github.com/SpacingBat3/WebCord",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SpacingBat3/WebCord/releases/download/v3.6.0/WebCord-win32-x64-3.6.0.zip",
-            "hash": "7aa7cde7c3ff5ea1d3ea3852fdf27d0db7fc7731bfd4ec348baf6403d8e482e4"
+            "url": "https://github.com/SpacingBat3/WebCord/releases/download/v3.7.0/WebCord-win32-x64-3.7.0.zip",
+            "hash": "93675a0ac7abd886d9721fc0829a009018d5656addf4b19e90683fe77dacc8bd"
         },
         "32bit": {
-            "url": "https://github.com/SpacingBat3/WebCord/releases/download/v3.6.0/WebCord-win32-ia32-3.6.0.zip",
-            "hash": "b46a0609872d2b646a217a9218747ba3641565418bd8f9ba24db95ab6a6f72a6"
+            "url": "https://github.com/SpacingBat3/WebCord/releases/download/v3.7.0/WebCord-win32-ia32-3.7.0.zip",
+            "hash": "c7857937faf2be3def8fc2017cf289647e7e01c1c5417e31bc63e7c395bf779c"
         }
     },
     "shortcuts": [
