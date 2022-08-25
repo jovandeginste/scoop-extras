@@ -1,12 +1,12 @@
 {
-    "version": "1.14.3",
+    "version": "1.14.4",
     "description": "A monitor brightness controller based on DDC/CI",
     "homepage": "https://github.com/xanderfrangos/twinkle-tray",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.14.3/Twinkle.Tray.v1.14.3.exe#/dl.7z",
-            "hash": "fd5d9d94d02fa73c44cce1c8f72f305fd845d9ff75688e775b9ca7c0de60567b"
+            "url": "https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.14.4/Twinkle.Tray.v1.14.4.exe#/dl.7z",
+            "hash": "b6fdb27ee5563c86f8851180df7de37ce46a16c5ffd1cbe830e6fb5a7a747a18"
         }
     },
     "pre_install": [
