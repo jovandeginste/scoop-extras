@@ -1,10 +1,10 @@
 {
-    "version": "4.11-1",
+    "version": "4.12",
     "description": "Personal and small-business financial-accounting software",
     "homepage": "https://www.gnucash.org/",
     "license": "GPL-2.0-or-later",
-    "url": "https://github.com/Gnucash/gnucash/releases/download/4.11/gnucash-4.11-1.setup.exe",
-    "hash": "63d98c5873e58191cbac5c6ba4f269528c67911d0d63e2dd114e2f1c12c328a7",
+    "url": "https://github.com/Gnucash/gnucash/releases/download/4.12/gnucash-4.12.setup.exe",
+    "hash": "3098cbeab534978493740a8e614ef6cafa30372f5ad95a35d8b5d26d0bed8876",
     "innosetup": true,
     "architecture": {
         "64bit": {
