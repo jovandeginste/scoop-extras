@@ -1,5 +1,5 @@
 {
-    "version": "30.8b16",
+    "version": "30.8b17",
     "description": "Free Mersenne Prime Search Software",
     "homepage": "https://www.mersenne.org/download/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://www.mersenne.org/ftp_root/gimps/p95v308b16.win64.zip",
-            "hash": "35130ec0fc17f4f9ca5aaee3f5085ba921ca1bfe7274a2af3444f6aecf50d9bb"
+            "url": "https://www.mersenne.org/ftp_root/gimps/p95v308b17.win64.zip",
+            "hash": "200ce041d0e7f4be04172bb3211b10831eec465be51ff4de7f1ad93a3c1a5124"
         },
         "32bit": {
             "url": "https://www.mersenne.org/ftp_root/gimps/p95v298b6.win32.zip",
