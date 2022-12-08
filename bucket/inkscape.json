@@ -1,18 +1,18 @@
 {
-    "version": "1.2.2_2022-12-01",
+    "version": "1.2.2_2022-12-09",
     "description": "Professional vector graphics editor",
     "homepage": "https://inkscape.org",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://inkscape.org/en/gallery/item/37364/inkscape-1.2.2_2022-12-01_b0a8486541-x64.7z",
-            "hash": "9e8b02051316fae74aaf1bd314f7f228430a12726c5d93acce226d07db843a60",
-            "extract_dir": "inkscape-1.2.2_2022-12-01_b0a8486541-x64"
+            "url": "https://inkscape.org/en/gallery/item/37364/inkscape-1.2.2_2022-12-09_732a01da63-x64.7z",
+            "hash": "2b12cb72061cdfca5ac9570ca102fb871ef582880c1dad09bae88b5f9f02ed6f",
+            "extract_dir": "inkscape-1.2.2_2022-12-09_732a01da63-x64"
         },
         "32bit": {
-            "url": "https://inkscape.org/en/gallery/item/37362/inkscape-1.2.2_2022-12-01_b0a8486541-x86.7z#/dl.7z",
-            "hash": "1a3e88b4c8c7798fd867e54d83563ae381377d95add6d52111100f9c881749d7",
-            "extract_dir": "inkscape-1.2.2_2022-12-01_b0a8486541-x86"
+            "url": "https://inkscape.org/en/gallery/item/37362/inkscape-1.2.2_2022-12-09_732a01da63-x86.7z#/dl.7z",
+            "hash": "94050240c71796e1472a803b5b5727cb1903ae981bae9fc8d77245393cf68e30",
+            "extract_dir": "inkscape-1.2.2_2022-12-09_732a01da63-x86"
         }
     },
     "bin": [
