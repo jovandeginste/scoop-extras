@@ -1,16 +1,16 @@
 {
-    "version": "1.0.14",
+    "version": "1.0.15",
     "description": "A music player and music collection organizer",
     "homepage": "https://www.strawbs.org/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://files.jkvinge.net/packages/strawberry/StrawberrySetup-1.0.14-mingw-x64.exe#/dl.7z",
-            "hash": "9a5371b40ed1c0a848c39b2dce3eac24810117906718c451b679bf3cfc7e56db"
+            "url": "https://files.jkvinge.net/packages/strawberry/StrawberrySetup-1.0.15-mingw-x64.exe#/dl.7z",
+            "hash": "31ba75bd54276c5fc90a949b3c44e6a93c36a8c3a9ceb4189e7cc6290785b9c7"
         },
         "32bit": {
-            "url": "https://files.jkvinge.net/packages/strawberry/StrawberrySetup-1.0.14-mingw-x86.exe#/dl.7z",
-            "hash": "532b9d18bce3ff7577a7b426674a46d6d63739fcf987e4847d36103a1722c6ad"
+            "url": "https://files.jkvinge.net/packages/strawberry/StrawberrySetup-1.0.15-mingw-x86.exe#/dl.7z",
+            "hash": "90c80352079473a692d8579afd74b5768712350051ccdada5702cbf5f6f25525"
         }
     },
     "pre_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse",
