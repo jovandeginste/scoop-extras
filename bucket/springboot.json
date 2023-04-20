@@ -1,5 +1,5 @@
 {
-    "version": "3.0.5",
+    "version": "3.0.6",
     "description": "Create stand-alone, production-grade Spring based Applications that you can \"just run\".",
     "homepage": "https://spring.io/projects/spring-boot",
     "license": "Apache-2.0",
@@ -9,9 +9,9 @@
             "java/openjdk"
         ]
     },
-    "url": "https://repo.spring.io/ui/api/v1/download?repoKey=release&path=org%252Fspringframework%252Fboot%252Fspring-boot-cli%252F3.0.5%252Fspring-boot-cli-3.0.5-bin.zip#/dl.zip",
-    "hash": "1505d1e51de66a4ea816c8cb2c0a38013af2af6a6a245429bec995e0c121996e",
-    "extract_dir": "spring-3.0.5",
+    "url": "https://repo.spring.io/ui/api/v1/download?repoKey=release&path=org%252Fspringframework%252Fboot%252Fspring-boot-cli%252F3.0.6%252Fspring-boot-cli-3.0.6-bin.zip#/dl.zip",
+    "hash": "7c3c64e1771bfd0da64de5f072cd88923af967dd05c76a8b80d854386fc831a6",
+    "extract_dir": "spring-3.0.6",
     "bin": "bin\\spring.bat",
     "checkver": {
         "url": "https://repo.spring.io/ui/api/v1/download?repoKey=release&path=org%252Fspringframework%252Fboot%252Fspring-boot-cli%252Fmaven-metadata.xml",
