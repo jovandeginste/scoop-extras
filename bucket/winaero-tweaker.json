@@ -1,5 +1,5 @@
 {
-    "version": "1.54.0.0",
+    "version": "1.55.0.0",
     "description": "Tweaks and hidden settings for power-users for Windows 7/8/8.1/10/11",
     "homepage": "https://winaerotweaker.com/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://winaero.com/comment.php?comment.news.1836"
     },
     "url": "https://winaerotweaker.com/download/winaerotweaker.zip",
-    "hash": "b7acdd327c39aa776ded6b7ce63ab7a1210fb9c06cea85f15d84dca5a6874358",
+    "hash": "370095778b69f763af03e553f5a83b192c7183d098cb0d87350f66fb525573b8",
     "pre_install": [
         "Remove-Item \"$dir\\SilentSetup.cmd\" -ErrorAction 'SilentlyContinue'",
         "Get-ChildItem \"$dir\" '*setup.exe' | Rename-Item -NewName 'setup.exe'"
