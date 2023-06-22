@@ -1,5 +1,5 @@
 {
-    "version": "2023.1.2-231.9011.39",
+    "version": "2023.1.3-231.9161.46",
     "description": "Cross-Platform IDE for .NET by JetBrains.",
     "homepage": "https://www.jetbrains.com/rider/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.2.exe#/dl.7z",
-            "hash": "1fe42be3a2d6a4edb8e9c6e1d8b7ef21302475d9dc40c65f70c9df5b642798f3",
+            "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.3.exe#/dl.7z",
+            "hash": "abf6a0bc8a9a96fc2c58f9987c3d2e25cb763f848743501f0d1c905cdbf0fb8e",
             "bin": [
                 [
                     "IDE\\bin\\rider64.exe",
