@@ -1,5 +1,5 @@
 {
-    "version": "0.22.0",
+    "version": "0.24.0",
     "description": "A peer-to-peer streaming torrent client written completely in JavaScript.",
     "homepage": "https://webtorrent.io/desktop/",
     "license": "MIT",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.22.0/WebTorrent-0.22.0-full.nupkg",
-            "hash": "sha1:f47741fcaa932a7f0134703c7ac40bfc85a89a87"
+            "url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-0.24.0-full.nupkg",
+            "hash": "sha1:ed355659379e484cde0b87772910bb090b8671a2"
         }
     },
     "extract_dir": "lib\\net45",
