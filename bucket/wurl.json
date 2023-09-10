@@ -1,16 +1,16 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "A console client for websocket protocol",
     "homepage": "https://github.com/xakep666/wurl",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xakep666/wurl/releases/download/v1.0.1/wurl_windows_amd64_v1.0.1.zip",
-            "hash": "dc40eea0843fd9ca8c24fca03adf61d051f0d38a4f6e7f3f240bb903fd20c193"
+            "url": "https://github.com/xakep666/wurl/releases/download/v1.0.0/wurl_windows_amd64_v1.0.0.zip",
+            "hash": "e76394be912332035e23cedea99797ebe058cf86c8e31694875e5a19a7bfb170"
         },
         "32bit": {
-            "url": "https://github.com/xakep666/wurl/releases/download/v1.0.1/wurl_windows_386_v1.0.1.zip",
-            "hash": "6dc577e196512e31a6f1670f38e1a8b221c00610d68d9c0c7c21ab8bf50ce1b9"
+            "url": "https://github.com/xakep666/wurl/releases/download/v1.0.0/wurl_windows_386_v1.0.0.zip",
+            "hash": "62d61d0d3af60721adbc431d7517e3e4945198dd456065c82ed36fb1b2549634"
         }
     },
     "bin": "wurl.exe",
