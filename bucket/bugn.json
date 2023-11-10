@@ -1,5 +1,5 @@
 {
-    "version": "9.0.1",
+    "version": "9.0.2",
     "description": "Tiling window manager add-on for the Explorer shell of Microsoft Windows",
     "homepage": "https://github.com/fuhsjr00/bug.n",
     "license": "GPL-3.0-or-later",
@@ -10,9 +10,9 @@
     "suggest": {
         "autohotkey": "extras/autohotkey"
     },
-    "url": "https://github.com/fuhsjr00/bug.n/archive/v9.0.1.zip",
-    "hash": "91a02008af18ad5d4988219055473359ba670d789398e0af853fae6702d03495",
-    "extract_dir": "bug.n-9.0.1",
+    "url": "https://github.com/fuhsjr00/bug.n/archive/v9.0.2.zip",
+    "hash": "27cc1ce069f7947b543306d4b1ec28f31fdf71fd0941650a9a39bb6a24880a5b",
+    "extract_dir": "bug.n-9.0.2",
     "bin": "bugn.exe",
     "shortcuts": [
         [
