@@ -1,12 +1,12 @@
 {
-    "version": "10.5.0",
+    "version": "10.6.0",
     "description": "Vim Inspired Electron Browser",
     "homepage": "https://vieb.dev",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Jelmerro/Vieb/releases/download/10.5.0/Vieb-10.5.0-win.zip",
-            "hash": "df10795e89acbfe83550b91539157961b0caf4faee52836ad3746c339f8ddcb0"
+            "url": "https://github.com/Jelmerro/Vieb/releases/download/10.6.0/Vieb-10.6.0-win.zip",
+            "hash": "f5de619df4d66ecc06fab9062377dba67b084ea895b3082b03bf5d2218acc9fc"
         }
     },
     "bin": "Vieb.exe",
