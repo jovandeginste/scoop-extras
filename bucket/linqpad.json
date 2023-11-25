@@ -1,5 +1,5 @@
 {
-    "version": "8.0.15",
+    "version": "8.0.16",
     "description": "The .NET programmer’s playground",
     "homepage": "https://www.linqpad.net",
     "license": {
@@ -10,7 +10,7 @@
         ".Net SDK": "dotnet-sdk"
     },
     "url": "https://linqpad.azureedge.net/public/LINQPad8.zip",
-    "hash": "f3465ef065b0ec51b766d8a7c05ef652de176166ec28d25d3841f9f658b48e0a",
+    "hash": "7865e19c950f93f37901c256969482de947c0881205983e6e2d597af84b2cf58",
     "architecture": {
         "64bit": {
             "bin": [
