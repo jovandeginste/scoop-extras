@@ -1,5 +1,5 @@
 {
-    "version": "4.1.2.4",
+    "version": "5.0.0.0",
     "description": "Adjust Windows according to your preferences to improve the performance and privacy of the OS.",
     "homepage": "https://www.winprivacy.de/english-home",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.winprivacy.de/deutsch-start/download"
     },
     "url": "https://www.winprivacy.de/app/download/12302828636/W10Privacy.zip",
-    "hash": "ad13fa7e572c391279816d2e860a68872e08315d64de66005c406b26a8e43f1b",
+    "hash": "22e009c4bc42ebdea78d22abefaf405d1a43b63fb3b78702860f06dfb79720a1",
     "installer": {
         "script": [
             "if (-not (Test-Path \"$persist_dir\\W10Privacy.ini\")) { Set-Content \"$dir\\W10Privacy.ini\" '' -Encoding Ascii }",
