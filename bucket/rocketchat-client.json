@@ -1,10 +1,10 @@
 {
-    "version": "3.9.10",
+    "version": "3.9.11",
     "description": "Desktop application for Rocket.Chat using Electron",
     "homepage": "https://rocket.chat",
     "license": "MIT",
-    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.10/rocketchat-3.9.10-win.exe#/dl.7z",
-    "hash": "sha512:5b18577377e3a303b2b38245b06c3eb423cf3ad33faa12a6943fbef8b59589dcbc960735df61058d16a4dbe676d4e540eceba5562d1e1ccc7793cfd7411165e1",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.11/rocketchat-3.9.11-win.exe#/dl.7z",
+    "hash": "sha512:9a510089900815af1bb9679b32ee8883f4c580fd2210e1d1f28dbefd78766d1a7a0a02ce27dff57c693a81a269e46c9f7671ed8e1cd1e6b4dcd50af51dfdcd54",
     "architecture": {
         "64bit": {
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
