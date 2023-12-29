@@ -1,5 +1,5 @@
 {
-    "version": "0.1.2",
+    "version": "0.2.0",
     "description": "Reduce audio latency on Windows 10.",
     "homepage": "https://github.com/miniant-git/REAL",
     "license": "MIT",
