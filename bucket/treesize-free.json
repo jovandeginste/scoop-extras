@@ -1,5 +1,5 @@
 {
-    "version": "4.7.1",
+    "version": "4.7.2",
     "description": "Capture directory sizes and memory guzzlers.",
     "homepage": "https://www.jam-software.com/treesize_free",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.jam-software.de/company/freeware_license.shtml"
     },
     "url": "https://downloads.jam-software.de/treesize_free/TreeSizeFree-Portable.zip",
-    "hash": "fea2f8ee94a7c41cd4f4cb5db51e8211ca06b0fab025fd3a729e2930e7c47e77",
+    "hash": "d057abb2d442b6cbcdc8013ae6c46c03f311bbb801b1647bcce40adc1bb3e327",
     "bin": "TreeSizeFree.exe",
     "shortcuts": [
         [
