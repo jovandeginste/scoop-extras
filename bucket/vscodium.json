@@ -1,5 +1,5 @@
 {
-    "version": "1.87.1.24068",
+    "version": "1.87.2.24072",
     "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
     "homepage": "https://github.com/VSCodium/vscodium",
     "license": "MIT",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/VSCodium/vscodium/releases/download/1.87.1.24068/VSCodium-win32-x64-1.87.1.24068.zip",
-            "hash": "d9f55c652a0db9c3b5b826795f6a55c0e66f3735f53344016fe00f45a1c4e2d7"
+            "url": "https://github.com/VSCodium/vscodium/releases/download/1.87.2.24072/VSCodium-win32-x64-1.87.2.24072.zip",
+            "hash": "f2176a48b67d74f6c1ba9386a57010b5e417fa1314ad6da8bca7538d37cf3aff"
         }
     },
     "env_add_path": "bin",
