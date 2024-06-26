@@ -1,16 +1,16 @@
 {
-    "version": "3.5.4",
+    "version": "3.5.5",
     "description": "Professional password generator and manager, formerly known as PWGen",
     "homepage": "https://pwgen-win.sourceforge.io",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/pwgen-win/Password%20Tech/3.5.4/PwTech-3.5.4-64bit.zip",
-            "hash": "d42d9ad7f347dbabbca56d2d264de653d9448d029eb18a53d69fd7fed3315094"
+            "url": "https://downloads.sourceforge.net/project/pwgen-win/Password%20Tech/3.5.5/PwTech-3.5.5-64bit.zip",
+            "hash": "ce29267521c0aa351c6c800bb40a3fc06d3e1de5a204c349c4a7603c9f3041a1"
         },
         "32bit": {
-            "url": "https://downloads.sourceforge.net/project/pwgen-win/Password%20Tech/3.5.4/PwTech-3.5.4-32bit.zip",
-            "hash": "3f9ce1e90f228bf441eabb48d4519dfb8271e8e350b52e2a49cb1fddbf2e3fa9"
+            "url": "https://downloads.sourceforge.net/project/pwgen-win/Password%20Tech/3.5.5/PwTech-3.5.5-32bit.zip",
+            "hash": "b3632fb586cd5fa86905bdae17a0fd8164fa0f5244ec086d32d6f9291607d5b8"
         }
     },
     "pre_install": "if (!(Test-Path \"$persist_dir\\PwTech.ini\")) { New-Item \"$dir\\PwTech.ini\" -ItemType File | Out-Null }",
