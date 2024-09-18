@@ -1,13 +1,13 @@
 {
-    "version": "7.0-Persimmon",
+    "version": "7.1-Pitaya",
     "description": "Windows Service to run VirtualBox VMs automatically.",
     "homepage": "https://github.com/onlyfang/VBoxVmService/",
     "license": {
         "identifier": "Freeware",
         "url": "https://github.com/onlyfang/VBoxVmService/blob/master/doc/Licence.txt"
     },
-    "url": "https://github.com/onlyfang/VBoxVmService/releases/download/7.0-Persimmon/VBoxVmService-7.0-Persimmon.exe",
-    "hash": "8fc115f623e171c0bfc2defc0ebd9e8c1e428355b8457a1ce9a8cfc211b5edb7",
+    "url": "https://github.com/onlyfang/VBoxVmService/releases/download/7.1-Pitaya/VBoxVmService-7.1-Pitaya.exe",
+    "hash": "232c73d004f61b3101d8f8c4ceced77b57e4afa4db04e65932cfd0be7b7245d5",
     "innosetup": true,
     "bin": "VmServiceControl.exe",
     "shortcuts": [
