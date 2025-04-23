@@ -1,10 +1,10 @@
 {
-    "version": "4.9",
+    "version": "4.10",
     "description": "A CLI to browse and watch anime. This tool scrapes the site gogoanime.",
     "homepage": "https://github.com/pystardust/ani-cli",
     "license": "GPL-3.0-or-later",
-    "url": "https://github.com/pystardust/ani-cli/releases/download/v4.9/ani-cli",
-    "hash": "301c4d4913b108e11902009aec5047d174fd5b8ea88e6c5b95117ea23f070300",
+    "url": "https://github.com/pystardust/ani-cli/releases/download/v4.10/ani-cli",
+    "hash": "38599dc5bb65a5b9f78e936ed42ffe16b62095dbc6621a5b578ed3e29aac4f3e",
     "depends": "aria2",
     "suggest": {
         "mpv": [
